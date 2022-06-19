@@ -8,7 +8,7 @@
 		"UIName": "Swayback IIC",
 		"Id": "chassisdef_hunchback_HBK-IIC-P",
 		"Name": "Swayback IIC",
-		"Details": "Inner Sphere observers believed that this 'Mech was a last-ditch effort for failed warriors to die with glory but in truth, the assignment of a Hunchback IIC was essentially a death sentence. The Hunchback IIC is a Clan-tech refit of the venerable Hunchback. Its meager six tons of armor, coupled with paltry ammunition and lack of long-range weapons mean that the mech is a deathtrap. However, it is armed with a pair of Ultra AC/20s, one of the most powerful weapons in the Clan arsenal. This is backed up by a mere pair of ER Medium Lasers. This makes it incredible at 1v1 Clan dueling, but little else.",
+		"Details": "A modification of a Hunchback IIC and a warning about the difference of 'should' and 'could'.",
 		"Icon": "uixTxrIcon_hunchbackiic"
 	},
 	"MovementCapDefID": "movedef_hunchback_IIC",
@@ -249,7 +249,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Proof-Of-Concept Test Bed",
-	"YangsThoughts": "Inner Sphere observers believed that this 'Mech was a last-ditch effort for failed warriors to die with glory but in truth, the assignment of a Hunchback IIC was essentially a death sentence. The Hunchback IIC is a Clan-tech refit of the venerable Hunchback. Its meager six tons of armor, coupled with paltry ammunition and lack of long-range weapons mean that the mech is a deathtrap. However, it is armed with a pair of Ultra AC/20s, one of the most powerful weapons in the Clan arsenal. This is backed up by a mere pair of ER Medium Lasers. This makes it incredible at 1v1 Clan dueling, but little else.",
+	"YangsThoughts": "Like all ‘great’ ideas, this one had it’s genesis in a conversation between individuals in a bar, with an excessive application of libations. This current conversation was between a rather eccentric engineer and a pilot of a -4P Hunchback. The pilot loved the firepower of his ‘Mech, but hated how hot it ran. He remarked about the Clan’s version of the Hunchback, wondered about if there was a -4P counterpart, and then remarked about how it was impossible. While the engineer stated that he didn’t believe such a ‘Mech existed, he said that he could not only build one, but he could do so in a way that wouldn’t overheat the pilot. This is the end result. Powered by a 200 Standard Fusion Engine salvaged from a HBK-4P and with only the default protection of a HBK-IIC, it is armed with a staggering 16 Medium Chemical Laser, which are fed by 8 tons of ammunition. Even with the IIC’s default load of 12 Double Heat Sinks, the switch to Chem Lasers means that the heat gauges doesn’t so much as twitch on temperate worlds.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "CenterTorso",

@@ -25,7 +25,7 @@
 		"UIName": "Swayback IIC HBK-IIC-P",
 		"Id": "mechdef_hunchback_HBK-IIC-P",
 		"Name": "Swayback IIC",
-		"Details": "Built from the salvaged remains of an unknown variant of a Hunchback IIC, this custom mech was rebuilt as a proof-of-concept to see if a laserboat Swayback IIC was possible without cooking the pilot.",
+		"Details": "A modification of a Hunchback IIC and a warning about the difference of 'should' and 'could'.",
 		"Icon": "uixTxrIcon_hunchbackiic"
 	},
 	"simGameMechPartCost": 510000,
